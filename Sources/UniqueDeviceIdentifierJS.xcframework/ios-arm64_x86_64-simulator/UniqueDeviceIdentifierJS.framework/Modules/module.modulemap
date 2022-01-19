@@ -1,0 +1,11 @@
+framework module UniqueDeviceIdentifierJS {
+  umbrella header "UniqueDeviceIdentifierJS.h"
+
+  export *
+  module * { export * }
+}
+
+module UniqueDeviceIdentifierJS.Swift {
+    header "UniqueDeviceIdentifierJS-Swift.h"
+    requires objc
+}
