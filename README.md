@@ -44,6 +44,7 @@ print(manager.getDeviceID())
 ## About framework stability and uniqueness 
 
 ■ Does it remain the same after application reinstalling? If it’s possible, implement it, if not – describe why.
+
 ■ If your library is used in two different applications, will the ID that your library provides be the same inside of these two apps?
 
 Answer is below for above questions
